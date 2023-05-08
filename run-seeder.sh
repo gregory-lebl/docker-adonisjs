@@ -1,0 +1,1 @@
+docker exec app node ace db:seed
